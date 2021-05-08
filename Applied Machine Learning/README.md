@@ -1,23 +1,30 @@
-## Applied Machine Learning
-### Year 2 Term 1, Msc. Data Science at Birkbeck, University of London, 10/2019
+## Applied Machine Learning (AML)
+### Year 2 Term 1, MSc. Data Science at Birkbeck, University of London, 2020/2021
 
-### Overview
-1. Data preparation
-2. Feature selection and resampling
-3. Decision Tree and Random Forest
-4. Logistic Regression and Nearest Neighbors
-5. TensorFlow and Keras
-6. Image processing
-7. RNN and sequential data
-8. Real life applications
+
+### Overview Lectures
+1. Welcome to Applied Machine Learning
+2. Data Preparation
+3. Feature selection and Dimensionality Reduction
+4. Tree-based ML Algorithms: Decision Tree and Random Forest
+5. Regression-based ML Algorithms (Linear Regression, Logistic Regression,  and MLP)
+6. Feature/ Representation Learning
+7. Convolutional Neural Network
+8. Recurrent Neural Network
+
+
+### Overview Labs
+1. Loading ML Data and Descriptive Statistics
+2. Preparing Data
+3. Feature Selection and Resampling
+4. Compare MAchine Learning Algorithms
+5. Automating the Process and Saving the Model
+6. Deep Learning with Keras
+7. Representation Learning - Autoencoders
+8. Convolutional Neural Network with Keras
+9. Sequence Data Prediction using LSTM
 
 
 ### Course format
 * 1.5 hours of in-person lecture + 1.5 hours of lab per week
 * Scoring: written exam 70% + group project 30%
-
-### Further Readings 
-1. [Understanding LSTM](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
-2. [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
-3. [Neural Networks & The Backpropagation Algorithm](https://ayearofai.com/rohan-lenny-1-neural-networks-the-backpropagation-algorithm-explained-abf4609d4f9d)
-4. Things to note: tanh, sigmoid, relu functions
