@@ -4,8 +4,8 @@
 
 ### Week 1
 Covered:   
- Module Overview. 
- Industry 4.0. 
+ Module Overview<br />
+ Industry 4.0<br />
  ML Experts. 
  Predictive Modelling. 
  The Analytic Workflow. 
