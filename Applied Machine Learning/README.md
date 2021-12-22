@@ -27,4 +27,4 @@
 
 ### Course format
 * 1.5 hours of in-person lecture + 1.5 hours of lab per week
-* Scoring: written exam 70% + group project 30%
+* Scoring: written exam 70% + personal project 30%
